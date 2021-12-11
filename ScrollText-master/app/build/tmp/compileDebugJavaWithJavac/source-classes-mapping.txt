@@ -1,0 +1,4 @@
+com/thebigoceaan/scrollingtext/MainActivity.java
+ com.thebigoceaan.scrollingtext.MainActivity
+com/thebigoceaan/scrollingtext/BuildConfig.java
+ com.thebigoceaan.scrollingtext.BuildConfig
